@@ -1,0 +1,37 @@
+site_name: GrowHardware Docs
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: green
+    accent: green
+
+plugins:
+  - i18n:
+      default_language: es
+      languages:
+        es: Español
+        en: English
+        pt: Português
+
+nav:
+  es:
+    - Inicio: index.md
+    - Comparativa: comparativa.md
+    - Contribuir: contribuir.md
+    - Diferenciales: diferenciales.md
+    - Protocolos: protocolos.md
+
+  en:
+    - Home: index.md
+    - Comparison: comparativa.md
+    - Contribute: contribuir.md
+    - Differentials: diferenciales.md
+    - Protocols: protocolos.md
+
+  pt:
+    - Início: index.md
+    - Comparativo: comparativa.md
+    - Contribuir: contribuir.md
+    - Diferenciais: diferenciales.md
+    - Protocolos: protocolos.md
