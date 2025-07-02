@@ -1,7 +1,11 @@
-# 📦 Protocolos de cultivo
 
-En esta sección encontrarás:
-- Esquemas recomendados de médulas
-- Mapas de sensores por tipo de ambiente
-- Configuraciones por etapa (propagación, floración, etc.)
-- Ejemplos en JSON y YAML del plan de cultivo
+# 📦 Protocolos de Cultivo
+
+Nesta seção você encontrará:
+
+* Esquemas recomendados de *médulas*
+* Mapas de sensores por tipo de ambiente
+* Configurações por etapa (propagação, floração, etc.)
+* Exemplos em JSON e YAML do plano de cultivo
+
+---

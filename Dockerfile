@@ -1,3 +1,8 @@
-FROM squidfunk/mkdocs-material
+FROM python:3.9-slim
 
-RUN pip install mkdocs-static-i18n
+WORKDIR /docs
+COPY . .
+
+RUN pip install -r requirements.txt && mkdocs build
+
+CMD ["python", "-m", "http.server", "8000", "--directory", "site"]

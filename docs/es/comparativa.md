@@ -50,10 +50,3 @@ GrowHardware integra IA a través de una capa de TensorFlow expuesta vía API, q
 - 100% open source y libre para crecer con vos.
 
 ---
-
-Este contenido puede insertarse en:
-
-- `growhardware.org`: dentro de la sección **Comparativa de soluciones** o "Por qué somos diferentes".
-- `growhardware.foundation`: como parte del **manifiesto tecnopolítico**, el glosario o la sección de valores.
-
-También está listo para traducirse a 🇬🇧 inglés o 🇧🇷 portugués y adaptarse como componente HTML con TailwindCSS si lo vas a usar en la web.

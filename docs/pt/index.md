@@ -1,9 +1,13 @@
-# Bienvenido a GrowHardware.org
 
-Documentación colaborativa del ecosistema de hardware y software libre para cultivos inteligentes.
+# Bem-vindo ao GrowHardware.org
 
-## Secciones recomendadas
-- [Comparativa Global](comparativa.md)
-- [Por qué GrowHardware es diferente](diferenciales.md)
-- [Protocolos de cultivo](protocolos.md)
-- [Cómo contribuir](contribuir.md)
+Documentação colaborativa do ecossistema de hardware e software livre para cultivos inteligentes.
+
+### 📚 Seções Recomendadas
+
+* [Comparativo Global](comparativa.md)
+* [Por que o GrowHardware é diferente](diferenciales.md)
+* [Protocolos de cultivo](protocolos.md)
+* [Como Contribuir](contribuir.md)
+
+---
